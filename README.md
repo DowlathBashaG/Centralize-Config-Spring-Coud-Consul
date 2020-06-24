@@ -20,6 +20,8 @@ For Example :
 
 consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=192.168.0.65
 
+![consul run](https://user-images.githubusercontent.com/9671419/85619394-db071e00-b67f-11ea-9c7f-1d3868d26841.PNG)
+
 Step 4:
 
 Launch consul in brower using default port number for consul : 8500.
