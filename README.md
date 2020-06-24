@@ -8,7 +8,14 @@ Download from : https://www.consul.io/
 
 Step 2:
 
-Check ipaddress in your system
+Check ipaddress in your system.
+
+![ipadd_1](https://user-images.githubusercontent.com/9671419/85619679-4355ff80-b680-11ea-8747-8df4324d9361.PNG)
+
+
+![ipadd_2](https://user-images.githubusercontent.com/9671419/85619675-4224d280-b680-11ea-983d-401b01d3cf28.PNG)
+
+
 
 Step 3:
 
