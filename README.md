@@ -28,6 +28,8 @@ http://localhost:8500/
 
 Step 5:
 
+![consul-api-ui](https://user-images.githubusercontent.com/9671419/85616314-1bb06880-b67b-11ea-9907-9a4bd4aea93d.PNG)
+
 Create Key / Value  for user name and password.
 
 A. Create folder - Config
@@ -44,5 +46,6 @@ Note : Dynamically (on fly) change the password or username it will reflect.
 
 For Example :
 
+![consul-api-ui-output](https://user-images.githubusercontent.com/9671419/85616311-1a7f3b80-b67b-11ea-9ad8-9b373219b92d.PNG)
 
 
