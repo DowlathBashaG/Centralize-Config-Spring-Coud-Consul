@@ -30,7 +30,7 @@ Step 5:
 
 Create Key / Value  for user name and password.
 
-A. Create flder - Config
+A. Create folder - Config
 
 B. Under config folder create application name - Dowlath
 
