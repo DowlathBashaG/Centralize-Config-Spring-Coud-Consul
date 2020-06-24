@@ -15,7 +15,7 @@ Check ipaddress in your system.
 
 ![ipadd_2](https://user-images.githubusercontent.com/9671419/85619675-4224d280-b680-11ea-983d-401b01d3cf28.PNG)
 
-
+![address](https://user-images.githubusercontent.com/9671419/85619844-84e6aa80-b680-11ea-85bf-531269aa68dd.PNG)
 
 Step 3:
 
