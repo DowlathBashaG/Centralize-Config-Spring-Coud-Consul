@@ -14,7 +14,7 @@ Step 3:
 
 Execute the blow command along with ip address.
 
-consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind=<IP-ADDRESS>
+consul agent -server -bootstrap-expect=1 -data-dir=consul-data -ui -bind= [IP-ADDRESS]
 
 For Example :
 
